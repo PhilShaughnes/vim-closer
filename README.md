@@ -1,4 +1,4 @@
-# vim-closer
+# vim-closer [forked]
 
 **Closes brackets.** Perfect companion to [vim-endwise]. Basically, a more conservative version of [auto-pairs] that only works when you press Enter.
 
@@ -54,6 +54,13 @@ setImmediate(function () {
   |
 });
 ```
+
+<br>
+
+## Fork
+
+Forked to add support for Elixir.
+It just does what Ruby does.
 
 <br>
 
