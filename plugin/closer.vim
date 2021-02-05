@@ -2,7 +2,7 @@ augroup closer
   au!
   autocmd FileType *
     \ let b:closer = 1 |
-    \ let b:closer_flags = '([{'
+    \ let b:closer_flags = '([{' |
     \ let b:closer_no_semi = 0 |
     \ let b:closer_semi_ctx = 0
 
